@@ -1,0 +1,1 @@
+# artificial-intelligence-lab-1-state-space-search-from-buzet-to-the-8-puzzle-solved
